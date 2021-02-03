@@ -95,6 +95,7 @@ const styles =StyleSheet.create({
         fontSize: 20,
     },
     textContainer: {
+        width:"100%",
         paddingHorizontal:20,
         alignItems: "flex-start",
     },
